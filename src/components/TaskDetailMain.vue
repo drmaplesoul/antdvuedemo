@@ -77,7 +77,6 @@
 
         },
         beforeMount:()=>{
-            console.log("beforeMount");
 
         },
 
